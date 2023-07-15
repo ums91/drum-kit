@@ -3,7 +3,7 @@ This is a simple drum kit web application built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can see a live demo of the drum kit [here](https://example.com).
+You can see a live demo of the drum kit [here](https://ums91.github.io/drum-kit/).
 
 ## Table of Contents
 
